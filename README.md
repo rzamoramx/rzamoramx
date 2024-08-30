@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flink<br>👯 I’m looking to collaborate in an amazing team 🚀<br>🌱 I’m currently learning about AI 🧠<br>💬 Ask me about high availability architectures ⚙️
+🔭 I’m currently working on El puerto de Liverpool<br>👯 I’m looking to collaborate in an amazing team 🚀<br>🌱 I’m currently learning about AI 🧠<br>💬 Ask me about high availability architectures ⚙️
 
 
 ## 🌐 Socials:
